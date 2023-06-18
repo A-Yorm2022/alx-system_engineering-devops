@@ -1,1 +1,2 @@
-Aadded Hello World file 
+echo 'added "Hello, World" file' 
+echo inserted confused smiley
